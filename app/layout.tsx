@@ -68,7 +68,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon.png" />
         {/* You can add custom fonts or other head elements here */}
       </head>
       <body className={`${inter.className} antialiased`}>
