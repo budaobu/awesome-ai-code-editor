@@ -1,0 +1,45 @@
+// data/ai-editors.json
+{
+  "editors": [
+    {
+      "name": "GitHub Copilot",
+      "description": "AI pair programmer that helps you write code faster with contextual suggestions",
+      "url": "https://github.com/features/copilot",
+      "category": "IDE Integration",
+      "pricing": "Paid",
+      "features": ["Code completion", "Natural language to code", "Multiple IDE support"]
+    },
+    {
+      "name": "Amazon CodeWhisperer",
+      "description": "ML-powered coding companion that generates code suggestions",
+      "url": "https://aws.amazon.com/codewhisperer/",
+      "category": "IDE Integration",
+      "pricing": "Freemium",
+      "features": ["Code generation", "Security scanning", "AWS integration"]
+    },
+    {
+      "name": "Tabnine",
+      "description": "AI code completion tool that predicts and suggests your next lines of code",
+      "url": "https://www.tabnine.com/",
+      "category": "IDE Plugin",
+      "pricing": "Freemium",
+      "features": ["AI code completion", "Multiple languages", "Team collaboration"]
+    },
+    {
+      "name": "Codeium",
+      "description": "Fast and lightweight AI code completion with support for 70+ languages",
+      "url": "https://codeium.com/",
+      "category": "IDE Plugin",
+      "pricing": "Freemium",
+      "features": ["Real-time code completion", "Cross-IDE support", "Natural language processing"]
+    },
+    {
+      "name": "Cursor",
+      "description": "AI-first code editor built for pair programming",
+      "url": "https://cursor.sh/",
+      "category": "Standalone Editor",
+      "pricing": "Free",
+      "features": ["Code editing", "AI chat interface", "Code explanation"]
+    }
+  ]
+}
